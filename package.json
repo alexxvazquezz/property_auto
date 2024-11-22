@@ -1,0 +1,19 @@
+{
+  "name": "property_auto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.9.1"
+  },
+  "dependencies": {
+    "@ngneat/falso": "^7.2.0"
+  }
+}
