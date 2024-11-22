@@ -1,7 +1,7 @@
 # property_auto
 
-# Install Dependencies: 
+*Install Dependencies:* 
 `npm install`
 
-# Run all Tests: 
+*Run all Tests:* 
 `npm run test`
